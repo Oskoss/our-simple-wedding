@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "rsvp"
+title : "Let Us Know If You Can Make It!"
+content: |
+  We'd be delighted if you can join us at Hacienda Zimpizahua.
+  Diana has family in Mexico and Peter has family in the USA. Unfortunetly it's hard to get a visa into the US now adays and so we thought a wedding in Mexico would be the best way to go!
+button: 
+  label: "RSVP"
+  link: "https://forms.gle/qHQFJCYBcD3TjUgA6"
+image: "images/rsvp.jpg"

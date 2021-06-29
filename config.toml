@@ -1,0 +1,30 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Esteves & Blum Wedding"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "Diana Esteves & Peter Blum Wedding 2021!"
+  favicon = true
+
+[Params.social]
+  github = "https://github.com/oskoss"
+  twitter = "https://twitter.com/_pblum"
+  email = "peterblum@outlook.com"
+
+[deployment]
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "gcp"
+# The Go Cloud Development Kit URL to deploy to. Examples:
+# GCS; see https://gocloud.dev/howto/blob/#gcs
+URL = "gs://estevesblum.com"
+
+# gcloud compute backend-buckets update estevesblum-website --custom-response-header='Strict-Transport-Security:max-age=31536000; includeSubDomains; preload'

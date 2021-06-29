@@ -1,0 +1,7 @@
+<section>
+    <span class="icon {{ .style }}"></span>
+    <h3>{{ .name }}</h3>
+    {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+    {{ with .button }}<ul class="actions stacked">
+        <li><a href="{{ .link }}" target="_blank" rel="noopener noreferrer" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li> {{ end }}
+</section>

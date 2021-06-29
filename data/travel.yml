@@ -1,0 +1,22 @@
+title : "Getting There"
+content: "We have planned to travel together via bus from Mexico City Airport to Coatepec and Zimpizahua where the wedding will be held. All you have to do is get to Mexico City Airport!"
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Plane"
+    content : "Mexico City International Airport (MEX) is served by Aeroméxico, American Airlines, Delta Airlines, and United Airlines. <br><br>We <strong>recommend</strong> that you join us on the bus from the airport, the drive is about 3.5 - 4 hrs."
+    style : "solid style1 major fa-plane-arrival"
+    button:
+      label: "Book a Flight"
+      link: "https://www.google.com/travel/flights/search?tfs=CBwQAhopag0IAxIJL20vMDJfMjg2EgoyMDIxLTExLTA0cgwIAxIIL20vMDRzcWoaKWoMCAMSCC9tLzA0c3FqEgoyMDIxLTExLTA3cg0IAxIJL20vMDJfMjg2cAGCAQsI____________AUABSAGYAQE"
+  # feature item loop
+  - name : "Bus"
+    content : "We will depart Mexico City International Airport around <strong>5pm on Thursday November 4th 2021.</strong><br><br>We will arrive back to Mexico City International Airport around <strong>12pm on Sunday November 7th.</strong>"
+    style : "solid style1 major fa-bus" 
+  - name : "Hotel"
+    content : "We are providing rooms for everyone at the <strong>Meson Del Alferez Hotel</strong> in Coatepec, MX from <strong>Thursday Evening November 4th 2021 to Sunday Morning November 7th.</strong>"
+    style : "solid style1 major fa-concierge-bell"
+    button:
+      label: "More Info"
+      link: "http://pradodelrio.com/pages/mesonalferez-xalapa-es/"
+      

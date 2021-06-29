@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "The Destination"
+content: |
+  We'd be delighted if you can join us at Hacienda Zimpizahua for our wedding weekend. Zimpizahua is a spanish hacienda dating back to 1547 and set in the stunning coffee and sugar cane rich landscape of Veracruz Mexico.
+button: 
+  label: "The Destination"
+  link: "https://coatepecpueblomagico.mx/hacienda-zimpizahua"
+image: "images/hacienda.jpeg"
+id: "destination"

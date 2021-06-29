@@ -1,0 +1,14 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-center image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "DIANA & PETER"
+subtitle: |
+  Are Getting Married
+content : |
+  <Strong>NOVEMBER 6th 2021</strong>
+button1:
+  label : "RSVP"
+  link : "#rsvp"
+button2:
+  label : "More Info"
+  link : "#info"
+image : "images/engagement.jpg"

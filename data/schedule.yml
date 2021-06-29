@@ -1,0 +1,89 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "schedule"
+title : The Weekend
+content: |
+  <ul class="alt">
+    <h4>Thursday</h4>
+    <li>
+    <strong>5:00pm</strong> - Bus departs Mexico City Airport
+    <br/>
+    <strong>9:30pm</strong> - Hotel checkin
+    <br/>
+    <br/>
+
+    <h4>Friday</h4>
+    <li>
+    <strong>9:00am</strong> - Breakfast in Coatapec
+    <br/>
+    <strong>10:00am - Evening</strong>  Hot springs excursion including lunch and dinner
+    <br/>
+    <br/>
+
+    <h4>Saturday</strong></h4>
+    <li>
+    <strong>Morning</strong> - Group exploration of Coatapec a <a href="https://www.journeymexico.com/itinerary/magical-towns-veracruz">Pueblo Magico</a> including Breakfast, Lunch
+    <br/>
+    <strong>4:00pm</strong> - Wedding Ceremony at Hacienda 
+    <br/>
+    <strong>6:00pm</strong> - Wedding Dinner at Hacienda
+    <br/>
+    <br/>
+    
+    <h4>Sunday</h4>
+    <li>
+    <strong>9:00am</strong> - Breakfast in Coatapec
+    <br/>
+    <strong>10:00am</strong> - Bus departs hotel
+    <br/>
+    <strong>2:00pm</strong> - Drop off at Mexico City Airport
+    <br/>
+  </ul>
+  <br/>
+
+image: "images/hacienda-grounds.jpg"
+  #<ul class="alt">
+  #   <h4>Thursday</h4>
+  #   <li>
+  #   <strong>5:00pm</strong> - Bus departs Mexico City Airport
+  #   <br/>
+  #   <strong>9:30pm</strong> - Hotel checkin
+  #   <br/>
+  #   <br/>
+
+  #   <h4>Friday</h4>
+  #   <li>
+  #   <strong>9:00am</strong> - Breakfast in Coatapec
+  #   <br/>
+  #   <strong>10:00am</strong> - Bus departs hotel to hot springs excursion
+  #   <br/>
+  #   <strong>Afternoon</strong> - Hot springs excursion includes lunch and dinner
+  #   <br/>
+  #   <br/>
+
+  #   <h4>Saturday</strong></h4>
+  #   <li>
+  #   <strong>Morning</strong> - Group exploration of Coatapec a <a href="https://www.journeymexico.com/itinerary/magical-towns-veracruz">Pueblo Magico</a> includes Breakfast, Lunch
+  #   <br/>
+  #   <strong>3:30pm</strong> - Bus departs hotel to Hacienda 
+  #   <br/>
+  #   <strong>4:00pm</strong> - Wedding Ceremony at Hacienda 
+  #   <br/>
+  #   <strong>6:00pm</strong> - Wedding Dinner and Party
+  #   <br/>
+  #   <strong>8:30pm</strong> - Facepainting and Spooky Hacienda Stories
+  #   <br/>
+  #   <strong>10:00pm</strong> - Bus departs Hacienda to hotel
+  #   <br/>
+  #   <br/>
+
+  #   <h4>Sunday</h4>
+  #   <li>
+  #   <strong>9:00am</strong> - Breakfast in Coatapec
+  #   <br/>
+  #   <strong>10:00am</strong> - Bus departs hotel
+  #   <br/>
+  #   <strong>2:00pm</strong> - Bus drop off at Mexico City Airport
+  #   <br/>
+  # </ul>
+  # <br/>

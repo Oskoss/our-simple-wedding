@@ -1,0 +1,27 @@
+title : ""
+content: ""
+id: "info"
+style: "style1 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "Who"
+    content : "Our dearest <strong>family & friends</strong> from near and far </br> </br>"
+    style : "solid style1 major fa-child"
+    button:
+      label: "The Guest List"
+      link: "https://docs.google.com/spreadsheets/d/1OPAHQrVgUeG3HOoVV19ImPEk6Pvi-z7QJOe_Z9cGWHE/edit?usp=sharing"
+
+  # feature item loop
+  - name : "Where"
+    content : "<strong>HACIENDA ZIMPIZAHUA</strong><br/>Calle principal, 91500 Zimpizahua, Veracruz, Mexico"
+    style : "solid style1 major fa-mountain" 
+    button:
+      label : "See on Map"
+      link : "https://goo.gl/maps/art844cELZ7YNn7Q7"   
+  # feature item loop
+  - name : "When"
+    content : "November 5th - 7th 2021<br/><br/><br/>"
+    style : "solid style1 major fa-watch"
+    button:
+      label: "Add to Calendar"
+      link: "https://calendar.google.com/event?action=TEMPLATE&tmeid=MzJ0NmR1N245cDRhMWgydWM3MDBydTU1ZWMgZC5lc3RldmVzLjg5QG0&tmsrc=d.esteves.89%40gmail.com"
