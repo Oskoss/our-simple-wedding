@@ -6,7 +6,7 @@ content: |
   <ul class="alt">
     <h4>Thursday</h4>
     <li>
-    <strong>5:00pm</strong> - Bus departs Mexico City Airport
+    <strong>8:00pm</strong> - Bus departs Veracruz International Airport
     <br/>
     <strong>9:30pm</strong> - Hotel checkin
     <br/>
@@ -36,7 +36,7 @@ content: |
     <br/>
     <strong>10:00am</strong> - Bus departs hotel
     <br/>
-    <strong>2:00pm</strong> - Drop off at Mexico City Airport
+    <strong>12:00pm</strong> - Drop off at Veracruz International Airport
     <br/>
   </ul>
   <br/>
@@ -45,7 +45,7 @@ image: "images/hacienda-grounds.jpg"
   #<ul class="alt">
   #   <h4>Thursday</h4>
   #   <li>
-  #   <strong>5:00pm</strong> - Bus departs Mexico City Airport
+  #   <strong>5:00pm</strong> - Bus departs Veracruz International Airport
   #   <br/>
   #   <strong>9:30pm</strong> - Hotel checkin
   #   <br/>
@@ -83,7 +83,7 @@ image: "images/hacienda-grounds.jpg"
   #   <br/>
   #   <strong>10:00am</strong> - Bus departs hotel
   #   <br/>
-  #   <strong>2:00pm</strong> - Bus drop off at Mexico City Airport
+  #   <strong>2:00pm</strong> - Bus drop off at Veracruz International Airport
   #   <br/>
   # </ul>
   # <br/>
