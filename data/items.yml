@@ -20,7 +20,7 @@ items:
       link : "https://goo.gl/maps/art844cELZ7YNn7Q7"   
   # feature item loop
   - name : "When"
-    content : "November 5th - 7th 2021<br/><br/><br/>"
+    content : "November 4th - 8th 2021<br/><br/><br/>"
     style : "solid style1 major fa-watch"
     button:
       label: "Add to Calendar"

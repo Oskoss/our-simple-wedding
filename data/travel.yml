@@ -8,13 +8,13 @@ items:
     style : "solid style1 major fa-plane-arrival"
     button:
       label: "Book a Flight"
-      link: "https://www.google.com/travel/flights/search?tfs=CBwQAhokag0IAxIJL20vMDJfMjg2EgoyMDIxLTExLTA0cgcIARIDVkVSGiRqBwgBEgNWRVISCjIwMjEtMTEtMDdyDQgDEgkvbS8wMl8yODZwAYIBCwj___________8BQAFIAZgBAQ"
+      link: "https://www.google.com/travel/flights/search?tfs=CBwQAhokag0IAxIJL20vMDJfMjg2EgoyMDIxLTExLTA0cgcIARIDVkVSGiRqBwgBEgNWRVISCjIwMjEtMTEtMDhyDQgDEgkvbS8wMl8yODZwAYIBCwj___________8BQAFIAZgBAQ"
   # feature item loop
   - name : "Bus"
-    content : "We will depart Veracruz International Airport around <strong>8pm on Thursday November 4th 2021.</strong><br><br>We will arrive back to Veracruz International Airport around <strong>12pm on Sunday November 7th.</strong>"
+    content : "We will depart Veracruz International Airport around <strong>8pm on Thursday November 4th 2021.</strong><br><br>We will arrive back to Veracruz International Airport around <strong>9am on Monday November 8th.</strong>"
     style : "solid style1 major fa-bus" 
   - name : "Hotel"
-    content : "We are providing rooms for everyone at the <strong>Meson Del Alferez Hotel</strong> in Coatepec, MX from <strong>Thursday Evening November 4th 2021 to Sunday Morning November 7th.</strong>"
+    content : "We are providing rooms for everyone at the <strong>Meson Del Alferez Hotel</strong> in Coatepec, MX from <strong>Thursday Evening November 4th 2021 to Monday Morning November 8th.</strong>"
     style : "solid style1 major fa-concierge-bell"
     button:
       label: "More Info"
